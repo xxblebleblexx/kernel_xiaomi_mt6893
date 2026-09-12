@@ -31,6 +31,10 @@
 *.lzo
 *.mod.c
 *.o
+*.rej
+*.orig
+*.diff
+*.patch
 *.o.*
 *.order
 *.patch
